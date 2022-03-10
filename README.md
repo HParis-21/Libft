@@ -2,9 +2,9 @@
 
 Libft is a School 42 project. The purpose of this project is to create own C library.
 
-Libc functions
-ft_memset
-ft_bzero
+Libc functions  
+ft_memset   
+ft_bzero   
 ft_memcpy
 ft_memccpy
 ft_memmove
@@ -48,8 +48,6 @@ ft_putnbr_fd
 ft_putstr_fd
 
 Bonus functions
-By task
-
 ft_lstnew
 ft_lstdelone
 ft_lstdel
